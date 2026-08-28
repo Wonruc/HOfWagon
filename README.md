@@ -29,7 +29,7 @@ Recommend a smooth build plate, but a textured plate will work.
 
 It is also recommended to print by object rather than by layer.  This setting can be found under the global Others>Print Sequence setting.
 
-It is also recommended that if you are using the Bambu Slicer to switch to Orca Slicer, keep your printer in LAN mode, and install the Open Bamboo Network Plugin.  Bambu has already tried to lock users out of third party apps once, and there is no way they are not going to comply with proposed laws like California’s AB-2047 which would also require them to make their printers only work with their software. (https://github.com/ClusterM/open-bamboo-networking#downloads)
+It is also recommended that if you are using the Bambu Slicer to switch to Orca Slicer, keep your printer in LAN mode, and install the Open Bamboo Network Plugin.  Bambu has already tried to lock users out of third party apps once, and they will comply with proposed laws like California’s AB-2047 which would also require them to make their printers only work with their software and scan/approve everything you send to your printer. (https://github.com/ClusterM/open-bamboo-networking#downloads).  Oppose any laws where the government forces you to show everything you print to an external party, and keep everything open source.  
 
 
 
